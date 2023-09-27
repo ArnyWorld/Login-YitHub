@@ -1,3 +1,3 @@
 ## Login YitHub
 
-![YitHub Login](./img/YitHub.jpg)
+![YitHub Login](./img/yitHubPoster.jpg)
